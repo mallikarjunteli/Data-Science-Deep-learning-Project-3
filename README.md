@@ -1,2 +1,2 @@
-# Data-Science-Deep-learning-Project-3
+# Data-Science-Deep-learning-Project
 Dog and Cat Classification 
